@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>マイクラの世界を動画にしよう！</title>
+  <style>
+    body {
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      background-color: #f0f8ff;
+      color: #333;
+      padding: 2rem;
+    }
+    .slide {
+      border: 5px solid #87cefa;
+      border-radius: 20px;
+      background-color: #ffffff;
+      padding: 2rem;
+      margin-bottom: 3rem;
+      box-shadow: 0 0 20px rgba(135, 206, 250, 0.5);
+    }
+    h1, h2 {
+      color: #2e8b57;
+    }
+    h1 {
+      font-size: 2rem;
+      text-align: center;
+    }
+    h2 {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .emoji {
+      font-size: 1.5rem;
+    }
+    .key {
+      border: 1px solid #aaa;
+      border-radius: 4px;
+      background: #eee;
+      padding: 0.2em 0.5em;
+      margin: 0 0.2em;
+      font-weight: bold;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body><div class="slide">
+  <h1>🎮 マイクラの世界を動画にしよう！<br>自分のプレイを録画する魔法 ✨</h1>
+</div><div class="slide">
+  <h2>🗺️ はじめに：きみの冒険を記録しよう！</h2>
+  <p>「マイクラのすごい建築、友達にも見せたいな！」「奇跡みたいな面白い瞬間、もう一度見たいな！」と思ったことはないかな？</p>
+  <p>今日は、自分のプレイを動画として記録する<strong>録画（ろくが）</strong>という魔法を覚えるよ！</p>
+  <p>この魔法を使えば、きみだけの特別な冒険の物語を作ることができるんだ。</p>
+  <p>さあ、録画の達人（たつじん）になるための探検に出発だ！🧭</p>
+</div><div class="slide">
+  <h2>🔮 ミッション１：秘密の録画ツールを呼びだす呪文</h2>
+  <p>録画するための特別な道具は「<strong>Xbox Game Bar</strong>」！</p>
+  <p>マインクラフトを開いた状態で、キーボードの呪文をとなえよう：</p>
+  <p class="emoji">🧙‍♂️ 呪文：<span class="key">Windows</span> + <span class="key">G</span></p>
+  <p>窓のマークが <span class="key">Windows</span> キー、普通のGが <span class="key">G</span> キーだよ！</p>
+  <p>これで画面に不思議なツールが登場するよ！</p>
+</div><div class="slide">
+  <h2>▶️ ミッション２：録画の開始と停止！</h2>
+  <p>ツールを呼び出したら、「キャプチャ」の箱を探そう。</p>
+  <p><strong>録画を始める：</strong> 丸いボタン <strong>●</strong> を押す！</p>
+  <p>タイマーが出たら録画スタート！マイクラをプレイしよう！</p>
+  <p><strong>録画を止める：</strong> 四角いボタン <strong>■</strong> を押す！</p>
+  <p>「ゲームクリップが録画されました」と出たら成功だ！🎉</p>
+</div><div class="slide">
+  <h2>💎 ミッション３：宝物（動画）を見つけにいこう！</h2>
+  <p><strong>見つけ方その１：</strong> もう一度 <span class="key">Windows</span> + <span class="key">G</span> を押して、「すべてのキャプチャを表示」！</p>
+  <p><strong>見つけ方その２：</strong> パソコンの「エクスプローラー（黄色いフォルダー）」→ <strong>[ビデオ] → [キャプチャ]</strong></p>
+</div><div class="slide">
+  <h2>🎓 まとめ：君も今日から録画マスターだ！</h2>
+  <ul>
+    <li><span class="key">Windows</span> + <span class="key">G</span> でツールを出す</li>
+    <li>● で録画スタート</li>
+    <li>■ で録画ストップ</li>
+    <li>動画は「キャプチャ」フォルダーに入ってる！</li>
+  </ul>
+  <p><strong>おうちでのミッション：</strong> 自分のすごい建築を30秒録画してみよう！</p>
+</div><div class="slide">
+  <h2>🛠️ 困ったときのヒント集</h2>
+  <ul>
+    <li>●ボタンが押せない → マイクラをクリックしてから <span class="key">Windows</span> + <span class="key">G</span></li>
+    <li>自分の声も録音したい → 録画前にマイクマーク 🎙️ をオン！</li>
+    <li>もっと便利な呪文： <span class="key">Windows</span> + <span class="key">Alt</span> + <span class="key">R</span>（録画の開始・停止）</li>
+  </ul>
+</div></body>
+</html>
